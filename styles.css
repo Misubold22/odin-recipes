@@ -1,0 +1,31 @@
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+  a {
+    color: blue;
+  }
+
+  h1 {
+    color: black;
+  }
+  body {
+    background-color: wheat;
+   
+    color: darkblue;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-weight: bold;
+    text-align: left;
+}      
